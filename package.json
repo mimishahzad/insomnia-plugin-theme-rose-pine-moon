@@ -1,0 +1,29 @@
+{
+  "name": "insomnia-plugin-theme-rose-pine-moon",
+  "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+  "version": "1.0.0",
+  "insomnia": {
+    "name": "rose-pine-moon-theme",
+    "displayName": "Rose Pine Moon",
+    "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+    "images": {
+      "icon": "icon.svg"
+    }
+  },
+  "main": "index.js",
+  "keywords": [
+    "theme",
+    "dark",
+    "insomnia",
+    "insomnia-theme",
+    "insomnia-plugin",
+    "color-theme",
+    "soho", 
+    "rose-pine"
+  ],
+  "scripts": {
+    "publish": "npm publish"
+  },
+
+  "license": "MIT"
+}

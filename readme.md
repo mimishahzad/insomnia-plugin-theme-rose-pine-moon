@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Insomnia</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,17 +13,22 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open Insomnia
+2. Open Settings
+3. Navigate to Plugins
+4. Reveal Plugins Folder 
+5. Drag and Drop this repo into that folder
+6. Press Reload Plugins
+7. Go to Theme and Select your theme
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![Rose Pine Moon with Insomnia example](assets/template.png)
+![Rose Pine Moon with Insomnia](assets/Insomnia.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [mimishahzad](https://github.com/mimishahzad)
 
 ## Style guide
 
